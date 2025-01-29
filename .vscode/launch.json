@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anuvindpramod/Desktop/2025 Summer semester/DS3254_Systems-and-Algorithms",
+      "program": "/Users/anuvindpramod/Desktop/2025 Summer semester/DS3254_Systems-and-Algorithms/build/Debug/outDebug"
+    }
+  ]
+}
