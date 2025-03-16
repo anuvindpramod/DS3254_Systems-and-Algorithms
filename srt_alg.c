@@ -26,7 +26,6 @@ int main(){
     }
     printf("\n");
 
-    // Calling insertion sort on array arr
     insertionsort(arr, N);
 
     printf("Sorted array: ");
